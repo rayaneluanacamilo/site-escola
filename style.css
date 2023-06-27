@@ -1,0 +1,55 @@
+header{
+background-color: #424e61;
+color: white;
+
+}
+
+header{
+background-color: #424e61;
+color: write;
+display:flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+
+}
+.cabeçalho-imagem{
+  width: 10%;
+
+
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+
+
+}
+.escola-imagem{
+width: 25%
+
+
+}
+.escola{
+background-image; linear-gradiet{#424e61, #4EBFE9};
+color:white;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+
+  }
+
+  .escola-div-conteudo{
+ width: 35%;
+
+   }
+
+   .escola-div-conteudo{
+   padding: 24px 0;
+
+    }
+    .escola-texto-um{
+    padding: 24px 0;
+    }
